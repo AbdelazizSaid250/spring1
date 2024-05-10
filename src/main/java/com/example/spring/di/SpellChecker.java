@@ -1,4 +1,4 @@
-package com.example.spring.nondi;
+package com.example.spring.di;
 
 public class SpellChecker {
 
